@@ -1,2 +1,2 @@
 # Mini-Project-1
-Market Basket Analysis using apriori algorithm
+This is a mini project based on Market Basket Analysis which is done with the help of apriori algorithm . 
